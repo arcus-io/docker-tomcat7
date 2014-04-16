@@ -1,6 +1,6 @@
 # Apache Tomcat7
 
-Apache Tomcat 7.0.47
+Apache Tomcat 7.0.53
 
 * `docker build -t tomcat7 .`
 * `docker run tomcat7`
